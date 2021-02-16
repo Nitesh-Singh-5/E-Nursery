@@ -1,8 +1,10 @@
-<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser2.png" align="left" height="350" width="400" >
-<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser3.png" align="left" height="350" width="400" >
-<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser5.png" align="left" height="350" width="400" >
-
+<div style="display:flex">
+<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser2.png" height="350" width="400" >
+<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser3.png" height="350" width="400" >
+<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser5.png" height="350" width="400" >
 <br>
+</div>
+
 ## Setup
 
 The first thing to do is to clone the repository:
