@@ -2,9 +2,8 @@
 <img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser2.png" height="300" width="300" > &nbsp;
 <img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser3.png" height="300" width="300" > &nbsp;
 <img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser5.png" height="300" width="300" >
-<br>
 </div>
-
+<br>
 ## Setup
 
 The first thing to do is to clone the repository:
