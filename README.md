@@ -1,6 +1,6 @@
 <img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser2.png" align="left" height="350" width="400" >
 <img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser3.png" align="left" height="350" width="400" >
-<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser4.png" align="left" height="350" width="400" >
+<img src="https://github.com/Nitesh-Singh-5/E-Nursery/blob/master/screenshots/E-nurser5.png" align="left" height="350" width="400" >
 
 
 ## Setup
