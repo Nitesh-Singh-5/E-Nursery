@@ -1,3 +1,6 @@
+<img src="https://github.com/Nitesh-Singh-5/E-Nursery/screenshots/E-nurse1.png" align="left" height="350" width="400" >
+
+
 ## Setup
 
 The first thing to do is to clone the repository:
